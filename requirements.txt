@@ -5,3 +5,4 @@ panda
 sqlalchemy
 faker
 python-dotenv
+scikit-learn
