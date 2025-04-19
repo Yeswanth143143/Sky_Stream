@@ -1,0 +1,7 @@
+boto3
+psycopg2-binary
+streamlit
+panda
+sqlalchemy
+faker
+python-dotenv
